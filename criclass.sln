@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "criclass", "criclass.csproj", "{348539AE-C40B-4C3E-B0D3-B8774CFEFAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348539AE-C40B-4C3E-B0D3-B8774CFEFAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348539AE-C40B-4C3E-B0D3-B8774CFEFAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348539AE-C40B-4C3E-B0D3-B8774CFEFAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348539AE-C40B-4C3E-B0D3-B8774CFEFAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF159C0-5BE2-4DF9-9DBE-1339E966F0C3}
+	EndGlobalSection
+EndGlobal
